@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.sig = '-' // ig
+global.sgh = 'https://github.com/RullDev' // github
+global.sgc = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV' // group whatsapp
+global.sdc = '-'//discord
+global.snh = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '087753812675' //dana
+global.povo = '-' //ovo
+global.pgopay = '087753812675' //gopay
+global.plinkaja = '087753812675' //link aja
+global.ppulsa = '087753812675' //telkomsel
+global.ppulsa2 = '087753812675' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/RullZy'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6287753812675'
+global.nomorown = '6287753812675'
+global.namebot = '𝙍𝙪𝙡𝙡𝘽𝙊𝙏'
+global.nameown = 'KhrlMstfa'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = 'https://github.com/RullDev' // nama github lu
+global.linkgithub = 'https://github.com/RullDev' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,11 +85,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
+  ['6287753812675', 'KhrlMstfa', true],
+  ['-', 'ISI KALAU ADA', false],
+  ['-', 'ISI KALAU ADA', false],
+  ['-', 'ISI KALAU ADA', false],
+  ['-', 'ISI KALAU ADA', false]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
-global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.wm = '                「 ヺ𝙍𝙪𝙡𝙡𝘽𝙊𝙏 」' //Main Watermark
+global.wm2 = '𝙍𝙪𝙡𝙡𝘽𝙊𝙏 X ©ᵂʰʸᶻᶻˣʸᵀᵉᵃᵐ'
+global.wm3 = '🚀 ┊ 𝙍𝙪𝙡𝙡𝘽𝙊𝙏 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.botdate = `⫹⫺ 𝗧𝗮𝗻𝗴𝗴𝗮𝗹: ${week} ${date}\n⫹⫺ 𝗪𝗮𝗸𝘁𝘂: ${wktuwib}`
+global.bottime = `⫹⫺ 𝗪𝗮𝗸𝘁𝘂: ${wktuwib}`
+global.titlebot = `⫹⫺ WhatsApp Bot | By RullSenpai`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「 RullBOT V2  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -597,7 +597,7 @@ global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://t
 
 /*============== TEXT ==============*/
 global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.eror = '```404 Error```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'RullBOT V2'
+global.stickauth = `By ©RullBOT V2`
 
 global.multiplier = 38 // The higher, The harder levelup
 
