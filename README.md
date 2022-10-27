@@ -14,7 +14,7 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
  <a href="#"><img title="WH-MODS-BOT" src="https://img.shields.io/badge/-WH--MODS--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/WH-MODS-BOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-WH--MODS--BOT-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RullDev"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Khrl--Mstfa-green?style=for-the-badge&logo=github"></a>
     
 # Ambil Session Disini
 
@@ -23,18 +23,18 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6287753812675">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/_ctzhid_">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow">
+  <a href="https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw">
     <img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6282127487538"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Whatsapp``` <a href="https://wa.me/6287753812675"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HQMa4AGBFKRBi4z4R0MnH4) 
 ---------
 
@@ -59,13 +59,15 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 - [x] Tools 
 - [x] Exec 
 - [x] React 
+- [x] Menfess 
+- [x] Sewa 
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/RullDev/RullSenpaiV3/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/RullDev/RullSenpaiV3/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/RullDev/RullSenpaiV3/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
@@ -83,7 +85,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/WH-MODS-BOT/fix-bot-v3
+$ git clone https://github.com/RullDev/RullSenpaiV3
 $ cd fix-bot-v3
 $ npm i 
 ```
@@ -250,4 +252,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
 ## ```Recode By ✏️```
-[![WH-MODS-BOT](https://github.com/WH-MODS-BOT.png?size=70)](https://github.com/WH-MODS-BOT)
+[![KhrlMstfa](https://github.com/RullDev.png?size=70)](https://github.com/RullDev)
