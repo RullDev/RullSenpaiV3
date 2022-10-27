@@ -7,19 +7,19 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 </p>
 <h1 align="center">RullBotV2 - MD</h1>
 <p align="center">
-  <a href="https://github.com/RullDev"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=WH+MODS+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+WH+MODS+DEV;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/RullDev"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=RULL+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+Khrl+Mstfa;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="WH-MODS-BOT" src="https://img.shields.io/badge/-WH--MODS--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Rull-BOT" src="https://img.shields.io/badge/-Rull--BOT--MD--V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RullDev"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Khrl--Mstfa-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RullDev"><img title="Author" src="https://img.shields.io/badge/PEMBUAT-Khrl--Mstfa-green?style=for-the-badge&logo=github"></a>
     
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
-> Dan Subscribe [ Here ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
+> Dan Subscribe [ Here ](https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw) 
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
@@ -61,7 +61,7 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 - [x] React 
 - [x] Menfess 
 - [x] Sewa 
-- [√] By Rull 
+- [x] Runtime+Speed
 ---------
 
 ## `SETTING`
